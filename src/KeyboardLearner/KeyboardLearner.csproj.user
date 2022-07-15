@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Keyboard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="LevelComplete.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LevelCreation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LevelPlay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LevelSelection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NavigationScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PianoKey.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ProfileCreation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ProfileSelection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ProfileStats.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QwertyKey.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TitleScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
